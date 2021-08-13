@@ -26,3 +26,6 @@
 ## solved.ac
 - 백준 solved.ac 적용
 - Bronze to Gold
+
+## Dongbinna
+- 동빈나 지음-이것이 취업을 위한 코딩테스트다 with Python
