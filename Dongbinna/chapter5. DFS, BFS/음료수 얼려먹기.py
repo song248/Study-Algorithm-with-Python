@@ -17,7 +17,7 @@ def dfs(x, y):
 
 for i in range(n):
     for j in range(m):
-    if dfs(i, j) == True:
-        print(i, j)
-        cnt += 1
+        if dfs(i, j) == True:
+            print(i, j)
+            cnt += 1
 print(cnt)
