@@ -1,5 +1,6 @@
 # 바킹독 실전 알고리즘 강좌
-- https://www.youtube.com/channel/UCwFszkz9NbnQyQn5YbDfZtg  
+- 유튜브: https://www.youtube.com/channel/UCwFszkz9NbnQyQn5YbDfZtg  
+- 블로그: https://blog.encrypted.gg/921?category=773649
 
 - 강의 순서
 > - 0x00 오리엔테이션
@@ -23,4 +24,16 @@
 
 > - 여기서부턴 좀 고난도
 > - 0x12 수학
-
+> - 0x13 이분탐색
+> - 0x14 해쉬
+> - 0x15 이진 검색 트리
+> - 0x16 힙
+> - 0x17 KMP 알고리즘
+> - 0x18 라빈 카프 알고리즘
+> - 0x19 그래프
+> - 0x1A 트리
+> - 0x1B 위상정렬
+> - 0x1C 크루스칼 알고리즘
+> - 0x1D 프림 알고리즘
+> - 0x1E 플로이드 알고리즘
+> - 0x1F 다익스트라 알고리즘  
