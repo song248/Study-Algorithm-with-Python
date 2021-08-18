@@ -1,7 +1,7 @@
 # 바킹독 실전 알고리즘 강좌
 - 유튜브: https://www.youtube.com/channel/UCwFszkz9NbnQyQn5YbDfZtg  
 - 블로그: https://blog.encrypted.gg/921?category=773649
-_ 문제집: https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
+- 문제집: https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md
 
 - 강의 순서
 > - 0x00 오리엔테이션
