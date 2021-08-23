@@ -1,0 +1,5 @@
+a = list(map(int, input().split()))
+aa = min(a) + max(a)
+a.remove(min(a))
+a.remove(max(a))
+print(abs(aa - sum(a)))
