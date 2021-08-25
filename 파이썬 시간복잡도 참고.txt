@@ -1,0 +1,17 @@
+파이썬 자료형별 주요 연산자 시간 복잡도
+
+Big-O: O(1)
+- index, store, length, append, pop, clear
+
+Big-O: O(N)
+- slice, check ==(!=), insert, delete, remove, copy, pop, min/max, reverse, iteration
+
+Big-O: O(N logN)
+- sort
+
+Big-O: O(kN)
+- Multiply
+
+Big-O: etc
+- extend: O(len(...)) 확장 길이에 따라
+- construction: O(len(...)) 요소 길이에 따라
