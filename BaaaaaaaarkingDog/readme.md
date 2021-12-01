@@ -2,7 +2,8 @@
 
 - <strong><a href="https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98">블로그</a></strong>
 - <strong><a href="https://www.youtube.com/channel/UCwFszkz9NbnQyQn5YbDfZtg">유튜브</a></strong>
-- <strong><a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md">문제집</a></strong><br>
+- <strong><a href="https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md">문제집</a></strong><br>  
+
 
 - 강의 순서
 > - 0x00 오리엔테이션
